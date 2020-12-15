@@ -10,3 +10,4 @@ RNN ref:
 6. [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 7. [The Promise of Recurrent Neural Networks for Time Series Forecasting](https://machinelearningmastery.com/promise-recurrent-neural-networks-time-series-forecasting/)
 8. [MIT Deep Learning 2020 projects](https://github.com/aamini/introtodeeplearning)
+9. [Generation of music pieces using machine learning: long short-term memory neural networks approach](https://www.tandfonline.com/doi/full/10.1080/25765299.2019.1649972)
