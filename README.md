@@ -12,3 +12,4 @@ RNN ref:
 8. [MIT Deep Learning 2020 projects](https://github.com/aamini/introtodeeplearning)
 9. [Generation of music pieces using machine learning: long short-term memory neural networks approach](https://www.tandfonline.com/doi/full/10.1080/25765299.2019.1649972)
 10. [DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series](https://www.researchgate.net/publication/329792334_DeepAnT_A_Deep_Learning_Approach_for_Unsupervised_Anomaly_Detection_in_Time_Series)
+11. [A Long Short-Term Memory Ensemble Approach for Improving the Outcome Prediction in Intensive Care Unit](https://www.hindawi.com/journals/cmmm/2019/8152713/)
