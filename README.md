@@ -1,4 +1,9 @@
 # Reference-studies
+
+## Best Resource for EDA:
+
+[Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
+
 Reference of different algos
 
 RNN ref:
