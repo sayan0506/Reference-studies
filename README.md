@@ -3,6 +3,7 @@
 ## Best Resource for EDA:
 
 [Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
+[Generative Adversarial Networks (GAN’s) with Math](https://medium.com/deep-math-machine-learning-ai/ch-14-general-adversarial-networks-gans-with-math-1318faf46b43)
 
 Reference of different algos
 
