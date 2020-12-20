@@ -4,7 +4,7 @@
 
 [Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
 [Generative Adversarial Networks (GAN’s) with Math](https://medium.com/deep-math-machine-learning-ai/ch-14-general-adversarial-networks-gans-with-math-1318faf46b43)
-[Time series GAN](
+[Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
 
 Reference of different algos
 
