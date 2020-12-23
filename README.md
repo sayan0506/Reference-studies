@@ -8,6 +8,7 @@
 
 [Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
 
+[Maths behind GAN and KL divergence foundation](https://youtu.be/uaaqyVS9-rM)
 Reference of different algos
 
 RNN ref:
