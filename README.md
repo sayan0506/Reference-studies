@@ -12,6 +12,8 @@
 
 [7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
 
+[Random Forest](https://youtu.be/QHOazyP-YlM)
+
 **Reference of different algos**
 
 RNN ref:
