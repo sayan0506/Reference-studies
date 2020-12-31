@@ -11,7 +11,8 @@
 [Maths behind GAN and KL divergence foundation](https://youtu.be/uaaqyVS9-rM)
 
 [7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
-Reference of different algos
+
+**Reference of different algos**
 
 RNN ref:
 1. [Time Series Anomaly Detection Algorithms](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
