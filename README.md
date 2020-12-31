@@ -10,6 +10,7 @@
 
 [Maths behind GAN and KL divergence foundation](https://youtu.be/uaaqyVS9-rM)
 
+[7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
 Reference of different algos
 
 RNN ref:
