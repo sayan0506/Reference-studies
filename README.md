@@ -14,6 +14,9 @@
 
 [Random Forest](https://youtu.be/QHOazyP-YlM)
 
+[Tensorboard detailed tutorial](https://youtu.be/k7KfYXXrOj0)
+[Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
+
 **Reference of different algos**
 
 RNN ref:
