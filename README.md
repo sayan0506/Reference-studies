@@ -16,6 +16,7 @@
 
 [Tensorboard detailed tutorial](https://youtu.be/k7KfYXXrOj0)
 [Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
+[Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
 
 **Reference of different algos**
 
