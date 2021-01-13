@@ -11,9 +11,13 @@
 [Random Forest](https://youtu.be/QHOazyP-YlM)
 
 [Tensorboard detailed tutorial](https://youtu.be/k7KfYXXrOj0)
+
 [Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
+
 [Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
+
 [5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
+
 [Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 
 **Reference of different algos**
