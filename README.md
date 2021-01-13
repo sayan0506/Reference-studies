@@ -4,11 +4,7 @@
 
 [Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
 
-[Generative Adversarial Networks (GAN’s) with Math](https://medium.com/deep-math-machine-learning-ai/ch-14-general-adversarial-networks-gans-with-math-1318faf46b43)
-
 [Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
-
-[Maths behind GAN and KL divergence foundation](https://youtu.be/uaaqyVS9-rM)
 
 [7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
 
@@ -17,6 +13,8 @@
 [Tensorboard detailed tutorial](https://youtu.be/k7KfYXXrOj0)
 [Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
 [Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
+[5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
+[Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 
 **Reference of different algos**
 
