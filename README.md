@@ -40,3 +40,6 @@ RNN ref:
 10. [DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series](https://www.researchgate.net/publication/329792334_DeepAnT_A_Deep_Learning_Approach_for_Unsupervised_Anomaly_Detection_in_Time_Series)
 11. [A Long Short-Term Memory Ensemble Approach for Improving the Outcome Prediction in Intensive Care Unit](https://www.hindawi.com/journals/cmmm/2019/8152713/)
 12. [Graph Neural Network paper](https://arxiv.org/pdf/1812.08434.pdf#:~:text=Graph%20neural%20networks%20(GNNs)%20are,its%20neighborhood%20with%20arbitrary%20depth)
+
+#[MASTER
+Artificial Intelligence](https://www.iubh-online.org/master-degree-programmes/artificial-intelligence/?clickref=1100ldAeTXW7&utm_source=private-network&utm_medium=koop&utm_campaign=partner1011l41608)
