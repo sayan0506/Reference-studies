@@ -20,6 +20,8 @@
 
 [Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 
+This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
+
 **Reference of different algos**
 
 RNN ref:
