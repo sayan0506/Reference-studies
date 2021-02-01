@@ -22,6 +22,9 @@
 
 This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
 
+Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial
+Autoencoder (Assignment paper)
+
 **Reference of different algos**
 
 RNN ref:
