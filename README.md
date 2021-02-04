@@ -25,6 +25,8 @@ This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_
 Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial
 Autoencoder (Assignment paper)
 
+[Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
+
 **Reference of different algos**
 
 RNN ref:
