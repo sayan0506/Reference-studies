@@ -27,6 +27,8 @@ Autoencoder (Assignment paper)
 
 [Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
 
+[Setup Deep Learning environment: TensorFlow, Jupyter Notebook and Visual Studio Code](https://techbrij.com/setup-tensorflow-jupyter-notebook-vscode-deep-learning)
+
 **Reference of different algos**
 
 RNN ref:
