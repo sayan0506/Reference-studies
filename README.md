@@ -29,6 +29,8 @@ Autoencoder (Assignment paper)
 
 [Setup Deep Learning environment: TensorFlow, Jupyter Notebook and Visual Studio Code](https://techbrij.com/setup-tensorflow-jupyter-notebook-vscode-deep-learning)
 
+[Deep learning doesn’t need to be a black box](https://www.kdnuggets.com/2021/02/deep-learning-not-black-box.html)
+
 **Reference of different algos**
 
 RNN ref:
