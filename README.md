@@ -20,6 +20,8 @@
 
 [Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 
+[Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
+
 This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
 
 Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial
