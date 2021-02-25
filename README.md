@@ -35,6 +35,8 @@ Autoencoder (Assignment paper)
 
 [Deep learning doesn’t need to be a black box](https://www.kdnuggets.com/2021/02/deep-learning-not-black-box.html)
 
+[convolutional occupancy networks](https://arxiv.org/abs/2003.04618)
+
 **Reference of different algos**
 
 RNN ref:
