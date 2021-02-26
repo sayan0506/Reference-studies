@@ -41,6 +41,8 @@ Autoencoder (Assignment paper)
 
 [New deep learning models require fewer neurons research from MIT for autonomous car](https://www.csail.mit.edu/news/new-deep-learning-models-require-fewer-neurons)
 
+[An Embodied View of Octopus Neurobiology](https://reader.elsevier.com/reader/sd/pii/S0960982212010640?token=37B9883BCED7171DEF055BC38B534C910D169C0176062FB17C6A3ED92E427CC792355E9F0FA0B4B29868DD0721F69F07)
+
 **Reference of different algos**
 
 RNN ref:
