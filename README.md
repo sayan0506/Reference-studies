@@ -39,7 +39,7 @@ Autoencoder (Assignment paper)
 
 [convolutional occupancy networks](https://arxiv.org/abs/2003.04618)
 
-[ ](https://www.csail.mit.edu/news/new-deep-learning-models-require-fewer-neurons)
+[New deep learning models require fewer neurons research from MIT for autonomous car](https://www.csail.mit.edu/news/new-deep-learning-models-require-fewer-neurons)
 
 **Reference of different algos**
 
