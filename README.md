@@ -45,6 +45,8 @@ Autoencoder (Assignment paper)
 
 [An Embodied View of Octopus Neurobiology](https://reader.elsevier.com/reader/sd/pii/S0960982212010640?token=37B9883BCED7171DEF055BC38B534C910D169C0176062FB17C6A3ED92E427CC792355E9F0FA0B4B29868DD0721F69F07)
 
+**Must Study About The CNN Visualization**
+
 **Reference of different algos**
 
 RNN ref:
