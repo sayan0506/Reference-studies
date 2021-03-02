@@ -26,6 +26,8 @@
 
 [How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030)
 
+[Factorization Machines for Item Recommendation with Implicit Feedback Data](https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db)
+
 **implicit learning**
 
 This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
