@@ -28,6 +28,8 @@
 
 [Factorization Machines for Item Recommendation with Implicit Feedback Data](https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db)
 
+[Deploying TinyML](https://www.edx.org/course/deploying-tinyml)
+
 **implicit learning**
 
 This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
