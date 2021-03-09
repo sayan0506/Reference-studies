@@ -55,7 +55,7 @@ Autoencoder (Assignment paper)
 
 **Must Study About The CNN Visualization**
 
-**[Python Data Science Cheatsheet]()
+**[Python Data Science Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Cheat%20Sheet%20%7C%20Follow%20Dr.%20AngShuMan%20Ghosh%20for%20more.pdf)**
 
 **Reference of different algos**
 
