@@ -32,6 +32,10 @@
 
 **[CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)**
 
+** Visualization**
+
+* [Ploty 3D visualization tool for python](https://plotly.com/python/3d-scatter-plots/)
+
 **implicit learning**
 
 This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
