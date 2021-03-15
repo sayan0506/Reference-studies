@@ -1,52 +1,50 @@
 # Reference-studies
 
-## Best Resource for EDA:
+## Resource for EDA:
 
-[Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
+* [Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
 
 ## Generative Model Resources 
 
 * [Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
-
 * [Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 * [Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
+* **Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder (Assignment paper)**
+
 
 ## CNN resources
 
 * [7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
 * [5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
 
+## Data Science & ML algorithms guide
 
-[Random Forest](https://youtu.be/QHOazyP-YlM)
+* [Random Forest](https://youtu.be/QHOazyP-YlM)
+* [CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)
 
-[Tensorboard detailed tutorial](https://youtu.be/k7KfYXXrOj0)
+## Visualiztion Resources
 
-[Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
+* [Tensorboard detailed tutorial](https://youtu.be/k7KfYXXrOj0)
+* [Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
+* [How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030)
+* [Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
+* [Ploty 3D visualization tool for python](https://plotly.com/python/3d-scatter-plots/)
 
+# Advanced topics
 
-
-[Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
-
-[Recurrent Space-time Graph Neural Networks](https://arxiv.org/pdf/1904.05582.pdf)
-
-[How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030)
-
-[Factorization Machines for Item Recommendation with Implicit Feedback Data](https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db)
+* [Recurrent Space-time Graph Neural Networks](https://arxiv.org/pdf/1904.05582.pdf)
+* [Factorization Machines for Item Recommendation with Implicit Feedback Data](https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db)
 
 [Deploying TinyML](https://www.edx.org/course/deploying-tinyml)
 
-**[CS 329S: Machine Learning Systems Design](https://stanford-cs329s.github.io/syllabus.html)**
+
 
 ** Visualization**
-
-* [Ploty 3D visualization tool for python](https://plotly.com/python/3d-scatter-plots/)
 
 **implicit learning**
 
 This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
 
-Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial
-Autoencoder (Assignment paper)
 
 [Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
 
