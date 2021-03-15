@@ -4,9 +4,18 @@
 
 [Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
 
-[Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
+## Generative Model Resources 
 
-[7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
+* [Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
+
+* [Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
+* [Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
+
+## CNN resources
+
+* [7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
+* [5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
+
 
 [Random Forest](https://youtu.be/QHOazyP-YlM)
 
@@ -14,11 +23,7 @@
 
 [Tensorboard by Siraj](https://youtu.be/fBVEXKp4DIc)
 
-[Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
 
-[5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
-
-[Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 
 [Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
 
@@ -77,6 +82,7 @@ RNN ref:
 ## REINFORCEMENT LEARNING COMPLETE RESOURCE
 
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl#lectures)
+
 9. [Generation of music pieces using machine learning: long short-term memory neural networks approach](https://www.tandfonline.com/doi/full/10.1080/25765299.2019.1649972)
 10. [DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series](https://www.researchgate.net/publication/329792334_DeepAnT_A_Deep_Learning_Approach_for_Unsupervised_Anomaly_Detection_in_Time_Series)
 11. [A Long Short-Term Memory Ensemble Approach for Improving the Outcome Prediction in Intensive Care Unit](https://www.hindawi.com/journals/cmmm/2019/8152713/)
