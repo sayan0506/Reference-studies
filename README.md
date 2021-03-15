@@ -13,6 +13,11 @@
 * [Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
 * [Ploty 3D visualization tool for python](https://plotly.com/python/3d-scatter-plots/)
 
+## Weight/Bias Deep Learning Analysis, Detailed Guide, Project Management
+
+* [WeightsBiases Channel](https://youtube.com/c/WeightsBiases)
+* [Guide to implement playlist](https://www.youtube.com/playlist?list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk)
+
 
 ## Deep Learning, Data Science & ML algorithms guide
 
