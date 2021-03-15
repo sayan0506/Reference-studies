@@ -18,7 +18,7 @@
 
 * [WeightsBiases Channel](https://youtube.com/c/WeightsBiases)
 * [Guide to implement playlist](https://www.youtube.com/playlist?list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk)
-
+* [Advanced Deep Learning Playlists](https://youtube.com/playlist?list=PLD80i8An1OEEe2X5KA_uSvMaEMl0lo4jP)
 
 ## Deep Learning, Data Science & ML algorithms guide
 
