@@ -9,7 +9,7 @@
 * [Time series GAN](https://github.com/sayan0506/Reference-studies/blob/main/1706.02633.pdf)
 * [Deep generative models to counter class imbalance: a guided model selection strategy](https://www.researchgate.net/publication/334720715_Deep_generative_models_to_counter_class_imbalance_a_guided_model_selection_strategy)
 * [Naturalistic Image Synthesis Using Variational Auto-Encoder](https://bcourses.berkeley.edu/files/70257161/download?download_frd=1)
-* **Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder (Assignment paper)**
+* **Photorealistic Facial Expression Synthesis by the Conditional Difference Adversarial Autoencoder (Assignment paper)**[This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf]
 
 
 ## CNN resources
@@ -43,7 +43,7 @@
 
 **implicit learning**
 
-This paper gives a review of all  types of GAN Facial_Expression_Transfer_using_Generative_Advers.pdf
+
 
 
 [Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
