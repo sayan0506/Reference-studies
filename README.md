@@ -13,6 +13,7 @@
 * [Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
 * [Ploty 3D visualization tool for python](https://plotly.com/python/3d-scatter-plots/)
 
+
 ## Weight/Bias Deep Learning Analysis, Detailed Guide, Project Management
 
 * [WeightsBiases Channel](https://youtube.com/c/WeightsBiases)
@@ -27,8 +28,8 @@
 * [Comprehensive Introduction to Autoencoders](https://towardsdatascience.com/generating-images-with-autoencoders-77fd3a8dd368)
 * [An Overview of Deep Learning Based Clustering Techniques](https://divamgupta.com/unsupervised-learning/2019/03/08/an-overview-of-deep-learning-based-clustering-techniques.html)
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
-**[Python Data Science Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Cheat%20Sheet%20%7C%20Follow%20Dr.%20AngShuMan%20Ghosh%20for%20more.pdf)**
-
+* **[Python Data Science Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Cheat%20Sheet%20%7C%20Follow%20Dr.%20AngShuMan%20Ghosh%20for%20more.pdf)**
+* [ML models Compression and Quantization](https://towardsdatascience.com/machine-learning-models-compression-and-quantization-simplified-a302ddf326f2?gi=ddb830e186db)
 
 ## CNN resources
 
@@ -59,6 +60,10 @@
 ## REINFORCEMENT LEARNING COMPLETE RESOURCE
 
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl#lectures)
+
+## Deployment
+
+* [GCP AI model deployment](https://www.youtube.com/watch?v=N2OG1w6bGFo)
 
 
 ## Environment Setup
