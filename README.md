@@ -37,6 +37,7 @@
 * [5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
 * [Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
 * **Must Study About The CNN Visualization**
+* [Methodology to tackle Adverserial Attacks on images and analytics](https://www.pyimagesearch.com/2021/03/01/adversarial-attacks-with-fgsm-fast-gradient-sign-method/)
 
 
 ## RNN & Time-Series Reference
