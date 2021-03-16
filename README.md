@@ -61,6 +61,8 @@
 ## REINFORCEMENT LEARNING COMPLETE RESOURCE
 
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl#lectures)
+* [Reinforcement Learning Crash Course](https://github.com/sayan0506/Reference-studies/blob/main/2103.04910.pdf)
+
 
 ## Deployment
 
