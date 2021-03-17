@@ -20,6 +20,7 @@
 * [Guide to implement playlist](https://www.youtube.com/playlist?list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk)
 * [Advanced Deep Learning Playlists](https://youtube.com/playlist?list=PLD80i8An1OEEe2X5KA_uSvMaEMl0lo4jP)
 
+
 ## Deep Learning, Data Science & ML algorithms guide
 
 * [Random Forest](https://youtu.be/QHOazyP-YlM)
@@ -38,6 +39,8 @@
 * [Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
 * **Must Study About The CNN Visualization**
 * [Methodology to tackle Adverserial Attacks on images and analytics](https://www.pyimagesearch.com/2021/03/01/adversarial-attacks-with-fgsm-fast-gradient-sign-method/)
+* [EfficientDet: Scalable and Efficient Object Detection](https://paperswithcode.com/paper/efficientdet-scalable-and-efficient-object)
+* [Capsule Networks: The New Deep Learning Network](https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8)
 
 
 ## RNN & Time-Series Reference
