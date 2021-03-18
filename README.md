@@ -75,6 +75,11 @@
 * [Reinforcement Learning Crash Course](https://github.com/sayan0506/Reference-studies/blob/main/2103.04910.pdf)
 
 
+##ML Testing
+
+* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
+
+
 ## Deployment
 
 * [GCP AI model deployment](https://www.youtube.com/watch?v=N2OG1w6bGFo)
