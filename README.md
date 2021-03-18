@@ -1,5 +1,10 @@
 # Reference-studies
 
+## Github Resources
+
+* [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
+* [MLops and Github Actios Tutorial](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
+
 ## Resource for EDA:
 
 * [Exploratory Data Analysis notebook kaggle](https://www.kaggle.com/amayomordecai/heart-disease-risk-prediction-machine-learning)
