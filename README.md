@@ -39,6 +39,7 @@
 
 ## CNN resources
 
+* [CNN Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/CNN_cheatsheet.pdf)
 * [7 Types of Classification Algorithms](https://analyticsindiamag.com/7-types-classification-algorithms/)
 * [5 Papers on CNNs Every Data Scientist Should Read](https://www.kdnuggets.com/2020/04/5-papers-cnns-data-scientist.html)
 * [Siraj Raval CNN evolution guide](https://youtu.be/VKoLGnq15RM)
