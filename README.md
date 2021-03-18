@@ -36,6 +36,8 @@
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
 * **[Python Data Science Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Cheat%20Sheet%20%7C%20Follow%20Dr.%20AngShuMan%20Ghosh%20for%20more.pdf)**
 * [ML models Compression and Quantization](https://towardsdatascience.com/machine-learning-models-compression-and-quantization-simplified-a302ddf326f2?gi=ddb830e186db)
+* [Pandas Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Pandas%20Cheatsheet.pdf)
+
 
 ## CNN resources
 
