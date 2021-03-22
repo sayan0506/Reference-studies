@@ -53,6 +53,7 @@
 * [Xception Pytorch](https://github.com/tstandley/Xception-PyTorch)
 * [Implementing Grad-CAM in PyTorch](https://medium.com/@stepanulyanin/implementing-grad-cam-in-pytorch-ea0937c31e82)
 * [CURL: Neural Curve Layers for Global Image Enhancement (ICPR 2020)](https://github.com/sjmoran/CURL)
+* [Interpretability in Deep Learning CNN](https://wandb.ai/ayush-thakur/interpretability/reports/Interpretability-in-Deep-Learning-With-W-B-CAM-and-GradCAM--Vmlldzo5MTIyNw)
 
 
 ## RNN & Time-Series Reference
