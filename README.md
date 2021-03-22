@@ -51,6 +51,7 @@
 * [Capsule Networks: The New Deep Learning Network](https://towardsdatascience.com/capsule-networks-the-new-deep-learning-network-bd917e6818e8)
 * [Review: Xception — With Depthwise Separable Convolution](https://towardsdatascience.com/review-xception-with-depthwise-separable-convolution-better-than-inception-v3-image-dc967dd42568?gi=224ea57f354)
 * [Xception Pytorch](https://github.com/tstandley/Xception-PyTorch)
+* [Implementing Grad-CAM in PyTorch](https://medium.com/@stepanulyanin/implementing-grad-cam-in-pytorch-ea0937c31e82)
 
 
 ## RNN & Time-Series Reference
