@@ -17,7 +17,7 @@
 * [How to visualize convolutional features in 40 lines of code](https://towardsdatascience.com/how-to-visualize-convolutional-features-in-40-lines-of-code-70b7d87b0030)
 * [Guide to real-time visualisation of massive 3D point clouds in Python](https://towardsdatascience.com/guide-to-real-time-visualisation-of-massive-3d-point-clouds-in-python-ea6f00241ee0)
 * [Ploty 3D visualization tool for python](https://plotly.com/python/3d-scatter-plots/)
-
+* [Gradient-weighted Class Activation Mapping - Grad-CAM](https://medium.com/@mohamedchetoui/grad-cam-gradient-weighted-class-activation-mapping-ffd72742243a)
 
 ## Weight/Bias Deep Learning Analysis, Detailed Guide, Project Management
 
@@ -54,7 +54,7 @@
 * [Implementing Grad-CAM in PyTorch](https://medium.com/@stepanulyanin/implementing-grad-cam-in-pytorch-ea0937c31e82)
 * [CURL: Neural Curve Layers for Global Image Enhancement (ICPR 2020)](https://github.com/sjmoran/CURL)
 * [Interpretability in Deep Learning CNN](https://wandb.ai/ayush-thakur/interpretability/reports/Interpretability-in-Deep-Learning-With-W-B-CAM-and-GradCAM--Vmlldzo5MTIyNw)
-
+* [keras-gradcam](https://github.com/eclique/keras-gradcam)
 
 ## RNN & Time-Series Reference
 
