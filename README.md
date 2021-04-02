@@ -38,6 +38,8 @@
 * [ML models Compression and Quantization](https://towardsdatascience.com/machine-learning-models-compression-and-quantization-simplified-a302ddf326f2?gi=ddb830e186db)
 * [Pandas Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Pandas%20Cheatsheet.pdf)
 * [Pytorch Lighting Masterclass](https://youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
+* [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903#:~:text=BOHB%20(Bayesian%20Optimization%20and%20HyperBand,Hyperband%20algorithm%20and%20Bayesian%20optimization.&text=It%20uses%20Hyperband%20to%20determine,estimator%20with%20no%20tree%20structure)
+* [Comparing Modern Scalable Hyperparameter Tuning Methods](https://towardsdatascience.com/comparing-modern-scalable-hyperparameter-tuning-methods-dfe9661e947f)
 
 ## CNN resources
 
@@ -56,6 +58,7 @@
 * [Interpretability in Deep Learning CNN](https://wandb.ai/ayush-thakur/interpretability/reports/Interpretability-in-Deep-Learning-With-W-B-CAM-and-GradCAM--Vmlldzo5MTIyNw)
 * [keras-gradcam](https://github.com/eclique/keras-gradcam)
 * [Why do most CNN models not apply the cross-validation technique?](https://www.google.com/url?sa=t&source=web&rct=j&url=https://datascience.stackexchange.com/questions/47797/using-cross-validation-technique-for-a-cnn-model%23:~:text%3Dk%252Dfold%2520cross%252Dvalidation%2520is,models%2520are%2520easy%2520to%2520optimize.%26text%3DFor%2520a%2520convolutional%2520neural%2520network,possible%2520changes%2520in%2520the%2520architecture.&ved=2ahUKEwjjqcf13tzvAhVlzDgGHXfUAxoQFjABegQIAxAF&usg=AOvVaw0RHcJGtg3qvgoljJXqogXS&cshid=1617269875114)
+* [Classification models Zoo - Keras (and TensorFlow Keras) all standard model implementations](https://github.com/qubvel/classification_models)
 
 ## RNN & Time-Series Reference
 
