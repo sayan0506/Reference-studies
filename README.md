@@ -55,6 +55,7 @@
 * [CURL: Neural Curve Layers for Global Image Enhancement (ICPR 2020)](https://github.com/sjmoran/CURL)
 * [Interpretability in Deep Learning CNN](https://wandb.ai/ayush-thakur/interpretability/reports/Interpretability-in-Deep-Learning-With-W-B-CAM-and-GradCAM--Vmlldzo5MTIyNw)
 * [keras-gradcam](https://github.com/eclique/keras-gradcam)
+* [Why do most CNN models not apply the cross-validation technique?](https://www.google.com/url?sa=t&source=web&rct=j&url=https://datascience.stackexchange.com/questions/47797/using-cross-validation-technique-for-a-cnn-model%23:~:text%3Dk%252Dfold%2520cross%252Dvalidation%2520is,models%2520are%2520easy%2520to%2520optimize.%26text%3DFor%2520a%2520convolutional%2520neural%2520network,possible%2520changes%2520in%2520the%2520architecture.&ved=2ahUKEwjjqcf13tzvAhVlzDgGHXfUAxoQFjABegQIAxAF&usg=AOvVaw0RHcJGtg3qvgoljJXqogXS&cshid=1617269875114)
 
 ## RNN & Time-Series Reference
 
