@@ -60,6 +60,7 @@
 * [Why do most CNN models not apply the cross-validation technique?](https://www.google.com/url?sa=t&source=web&rct=j&url=https://datascience.stackexchange.com/questions/47797/using-cross-validation-technique-for-a-cnn-model%23:~:text%3Dk%252Dfold%2520cross%252Dvalidation%2520is,models%2520are%2520easy%2520to%2520optimize.%26text%3DFor%2520a%2520convolutional%2520neural%2520network,possible%2520changes%2520in%2520the%2520architecture.&ved=2ahUKEwjjqcf13tzvAhVlzDgGHXfUAxoQFjABegQIAxAF&usg=AOvVaw0RHcJGtg3qvgoljJXqogXS&cshid=1617269875114)
 * [Classification models Zoo - Keras (and TensorFlow Keras) all standard model implementations](https://github.com/qubvel/classification_models)
 * [EfficientNet Keras Implementation](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
+* [Everything you need to know about MobileNetV3 and its](https://towardsdatascience.com/everything-you-need-to-know-about-mobilenetv3-and-its-comparison-with-previous-versions-a5d5e5a6eeaa)
 
 ## RNN & Time-Series Reference
 
