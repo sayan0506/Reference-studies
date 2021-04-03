@@ -62,6 +62,7 @@
 * [EfficientNet Keras Implementation](https://keras.io/examples/vision/image_classification_efficientnet_fine_tuning/)
 * [Everything you need to know about MobileNetV3 and its](https://towardsdatascience.com/everything-you-need-to-know-about-mobilenetv3-and-its-comparison-with-previous-versions-a5d5e5a6eeaa)
 * [Residual Attention for image classification](https://arxiv.org/pdf/1704.06904.pdf)
+* [Residual Attention Network Github Implementation](https://github.com/deontaepharr/Residual-Attention-Network)
 
 ## RNN & Time-Series Reference
 
