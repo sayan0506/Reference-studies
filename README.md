@@ -121,6 +121,7 @@
 * [An Embodied View of Octopus Neurobiology](https://reader.elsevier.com/reader/sd/pii/S0960982212010640?token=37B9883BCED7171DEF055BC38B534C910D169C0176062FB17C6A3ED92E427CC792355E9F0FA0B4B29868DD0721F69F07)
 * **[SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision/)** [Yan Lecun Paper on Self-supervised Learning of Facebook AI team]
 * [Graph Neural Network paper](https://arxiv.org/pdf/1812.08434.pdf#:~:text=Graph%20neural%20networks%20(GNNs)%20are,its%20neighborhood%20with%20arbitrary%20depth)
+* [Multichannel autocalibration for the Atmospheric Imaging Assembly using machine learning](https://media-exp1.licdn.com/dms/document/C561FAQGYxFyBZ1ixGw/feedshare-document-pdf-analyzed/0/1618363682691?e=1618473600&v=beta&t=AW0aYb5iq6ek4-naiFQxlQQ1mPj2OqovxGp5K1SkXAM)
 
 
 ## Others
