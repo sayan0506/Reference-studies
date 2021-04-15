@@ -63,6 +63,7 @@
 * [Everything you need to know about MobileNetV3 and its](https://towardsdatascience.com/everything-you-need-to-know-about-mobilenetv3-and-its-comparison-with-previous-versions-a5d5e5a6eeaa)
 * [Residual Attention for image classification](https://arxiv.org/pdf/1704.06904.pdf)
 * [Residual Attention Network Github Implementation](https://github.com/deontaepharr/Residual-Attention-Network)
+* [A Basic Introduction to Depthwise Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
 
 ## RNN & Time-Series Reference
 
