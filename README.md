@@ -64,6 +64,7 @@
 * [Residual Attention for image classification](https://arxiv.org/pdf/1704.06904.pdf)
 * [Residual Attention Network Github Implementation](https://github.com/deontaepharr/Residual-Attention-Network)
 * [A Basic Introduction to Depthwise Separable Convolutions](https://towardsdatascience.com/a-basic-introduction-to-separable-convolutions-b99ec3102728)
+* [Understanding Semantic Segmentation with UNET](https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47)
 
 ## RNN & Time-Series Reference
 
