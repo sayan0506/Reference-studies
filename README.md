@@ -105,6 +105,7 @@
 * [How to Deploy a Machine Learning Model to Google Cloud for 20%](https://youtu.be/fw6NMQrYc6w)
 * [Coursera MLops Fundamentals course](https://www.coursera.org/learn/mlops-fundamentals)
 * [Continuous Deployment from git using Cloud Build](https://cloud.google.com/run/docs/continuous-deployment-with-cloud-build)
+* [Mobile Deep Learning with TFlite, ML kit and Flutter](https://drive.google.com/drive/folders/1TV3jpPnFbd4pxiVxxxEKxSsZibwUqoVo?usp=sharing), Use this for TFlite model conversion
 
 
 ## Environment Setup
