@@ -108,6 +108,10 @@
 * [Mobile Deep Learning with TFlite, ML kit and Flutter](https://drive.google.com/drive/folders/1TV3jpPnFbd4pxiVxxxEKxSsZibwUqoVo?usp=sharing), Use this for TFlite model conversion
 
 
+## Real-time Video/Image processing using OpenCV using Webcam on Google Colab
+
+* [Real-time video processing using Webcam on Colab](https://github.com/sayan0506/Reference-studies/blob/main/Copy_of_colab_webcam.ipynb)
+
 ## Environment Setup
 
 * [Setup Deep Learning environment: TensorFlow, Jupyter Notebook and Visual Studio Code](https://techbrij.com/setup-tensorflow-jupyter-notebook-vscode-deep-learning)
