@@ -78,7 +78,7 @@
 * [A Long Short-Term Memory Ensemble Approach for Improving the Outcome Prediction in Intensive Care Unit](https://www.hindawi.com/journals/cmmm/2019/8152713/)
 * [Time Series Anomaly Detection Algorithms](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
 * [The Promise of Recurrent Neural Networks for Time Series Forecasting](https://machinelearningmastery.com/promise-recurrent-neural-networks-time-series-forecasting/)
-
+* [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series#Datasets)
 
 ## Generative Model Resources 
 
