@@ -8,7 +8,8 @@
 
 ## Python material
 
-* [Python Hands on]()
+* [Python Hands on](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Hands%20on.pdf)
+* [Python Cheatsheet]()
 
 
 ## Resource for EDA:
