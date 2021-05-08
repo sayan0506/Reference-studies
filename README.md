@@ -1,10 +1,10 @@
 # Reference-studies
 
-## Github Resources
+## MLops and Github Resources
 
 * [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
 * [MLops and Github Actios Tutorial](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
-
+* [Awesome MLOps Detailed Resources](https://github.com/visenger/awesome-mlops)
 
 ## Python material
 
