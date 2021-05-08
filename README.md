@@ -32,6 +32,7 @@
 * [Guide to implement playlist](https://www.youtube.com/playlist?list=PLD80i8An1OEGajeVo15ohAQYF1Ttle0lk)
 * [Advanced Deep Learning Playlists](https://youtube.com/playlist?list=PLD80i8An1OEEe2X5KA_uSvMaEMl0lo4jP)
 * [Explore/Exploit: Hyperparameter Tuning with W&B Sweeps by Stacey Svetlichnaya](https://youtu.be/6wRBGNLgQFU)
+* [Pipeline Versioning with W&B Artifacts](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/wandb-artifacts/Pipeline_Versioning_with_W&B_Artifacts.ipynb#scrollTo=ydJB7n6ttf_b)
 
 ## Deep Learning, Data Science & ML algorithms guide
 
