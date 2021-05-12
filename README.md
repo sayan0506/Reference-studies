@@ -35,6 +35,12 @@
 * [Explore/Exploit: Hyperparameter Tuning with W&B Sweeps by Stacey Svetlichnaya](https://youtu.be/6wRBGNLgQFU)
 * [Pipeline Versioning with W&B Artifacts](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/wandb-artifacts/Pipeline_Versioning_with_W&B_Artifacts.ipynb#scrollTo=ydJB7n6ttf_b)
 
+
+## Deep Learning Book
+
+* [Deep Learning tools and Extensive Guide, Study](https://drive.google.com/drive/folders/1PyVSjpRYr_23t2_njJQxAGtaMf3MRCKJ?usp=sharing)
+
+
 ## Deep Learning, Data Science & ML algorithms guide
 
 * [Random Forest](https://youtu.be/QHOazyP-YlM)
