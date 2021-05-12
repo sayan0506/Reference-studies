@@ -5,6 +5,7 @@
 * [Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)
 * [MLops and Github Actios Tutorial](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 * [Awesome MLOps Detailed Resources](https://github.com/visenger/awesome-mlops)
+* [Why and How to create requirements.txt](https://blog.usejournal.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
 
 ## Python material
 
