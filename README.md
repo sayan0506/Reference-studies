@@ -36,10 +36,15 @@
 * [Pipeline Versioning with W&B Artifacts](https://colab.research.google.com/github/wandb/examples/blob/master/colabs/wandb-artifacts/Pipeline_Versioning_with_W&B_Artifacts.ipynb#scrollTo=ydJB7n6ttf_b)
 
 
-## Deep Learning Book
+## Data Science Cheatsheet
+
+* [Data SCience all cheatsheets](https://drive.google.com/drive/u/0/mobile/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--)
+
+
+## Deep Learning Book and Playlist
 
 * [Deep Learning tools and Extensive Guide, Study](https://drive.google.com/drive/folders/1PyVSjpRYr_23t2_njJQxAGtaMf3MRCKJ?usp=sharing)
-
+* [Deep Learning Architectures Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp)
 
 ## Deep Learning, Data Science & ML algorithms guide
 
