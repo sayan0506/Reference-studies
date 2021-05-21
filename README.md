@@ -11,6 +11,7 @@
 
 * [Python Hands on](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Hands%20on.pdf)
 * [Python Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Cheat%20Sheet%20%7C%20Follow%20Dr.%20AngShuMan%20Ghosh%20for%20more.pdf)
+* [Pandas dataframe load error utf8 solution](https://github.com/sayan0506/Reference-studies/blob/main/Load_pandas_dataframe_ignoring_utf8_error.ipynb)
 
 
 ## Resource for EDA:
