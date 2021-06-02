@@ -7,6 +7,7 @@
 * [Awesome MLOps Detailed Resources](https://github.com/visenger/awesome-mlops)
 * [Why and How to create requirements.txt](https://blog.usejournal.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
 
+
 ## Python material
 
 * [Python Hands on](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Hands%20on.pdf)
@@ -61,6 +62,7 @@
 * [Pytorch Lighting Masterclass](https://youtube.com/playlist?list=PLaMu-SDt_RB5NUm67hU2pdE75j6KaIOv2)
 * [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903#:~:text=BOHB%20(Bayesian%20Optimization%20and%20HyperBand,Hyperband%20algorithm%20and%20Bayesian%20optimization.&text=It%20uses%20Hyperband%20to%20determine,estimator%20with%20no%20tree%20structure)
 * [Comparing Modern Scalable Hyperparameter Tuning Methods](https://towardsdatascience.com/comparing-modern-scalable-hyperparameter-tuning-methods-dfe9661e947f)
+* [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
 
 ## CNN resources
 
