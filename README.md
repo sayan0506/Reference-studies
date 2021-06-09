@@ -47,6 +47,8 @@
 
 * [Deep Learning tools and Extensive Guide, Study](https://drive.google.com/drive/folders/1PyVSjpRYr_23t2_njJQxAGtaMf3MRCKJ?usp=sharing)
 * [Deep Learning Architectures Paper Explained](https://www.youtube.com/playlist?list=PL1v8zpldgH3pXDttKKp8mlVKDitxsYDAp)
+* [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf](https://github.com/sayan0506/Reference-studies/blob/main/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf)
+
 
 ## Deep Learning, Data Science & ML algorithms guide
 
