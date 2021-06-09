@@ -63,6 +63,10 @@
 * [Hyper-parameter optimization algorithms: a short review](https://medium.com/criteo-engineering/hyper-parameter-optimization-algorithms-2fe447525903#:~:text=BOHB%20(Bayesian%20Optimization%20and%20HyperBand,Hyperband%20algorithm%20and%20Bayesian%20optimization.&text=It%20uses%20Hyperband%20to%20determine,estimator%20with%20no%20tree%20structure)
 * [Comparing Modern Scalable Hyperparameter Tuning Methods](https://towardsdatascience.com/comparing-modern-scalable-hyperparameter-tuning-methods-dfe9661e947f)
 * [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
+* [Best SVM Lectures](https://youtu.be/_PwhiWxHK8o)
+* [Insight of Kernelization](https://www.youtube.com/watch?v=wBVSbVktLIY)
+* [SVM followup of Codeemporium](https://youtu.be/05VABNfa1ds)
+
 
 ## CNN resources
 
