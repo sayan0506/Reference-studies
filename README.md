@@ -69,7 +69,7 @@
 
 
 
-# Computer Vision C++ Guide
+## Computer Vision C++ Guide
 
 * [OpenCV cpp course](https://www.computervision.zone/courses/opencv-cpp-course/)
 * [OpenCV cpp video tutorial](https://youtu.be/2FYm3GOonhk)
@@ -77,6 +77,9 @@
 * [Deep Learning using C++](https://www.youtube.com/watch?v=8GoYXWOq55A)
 * [CUDA Programming masterclass udemy](https://www.udemy.com/course/cuda-programming-masterclass/)
 * [Computer Vision by using C++ and OpenCV with GPU support](https://www.udemy.com/course/computer-vision-by-using-cpp-and-opencv-with-gpu-support/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_82569850245_._ad_437477497173_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_9301106_._pd__._&matchtype=b&gclid=Cj0KCQjwzYGGBhCTARIsAHdMTQwyeTnPPwPD_e89bvYiomqBh__Uv8dTnHeozmjVE5DvZ7WlYO2MCXMaAivbEALw_wcB)
+* [CppCon 2017: Peter Goldsborough “A Tour of Deep Learning With C++”](https://youtu.be/Lo1rXJdAJ7w)
+* [Keras In Tensorflow C++](https://youtu.be/2UgqCwVfdJY?list=PLP6IJjRcf4jb24eH1GoGmlef1J83XZW-S)
+* [Deep Learning with C++ - Peter Goldsborough - Meeting C++ 2017 implement GAN](https://www.youtube.com/watch?v=8GoYXWOq55A&list=PLP6IJjRcf4jb24eH1GoGmlef1J83XZW-S&index=5)
 
 
 ## CNN resources
