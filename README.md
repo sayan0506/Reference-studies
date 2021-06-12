@@ -70,7 +70,6 @@
 * [SVM followup of Codeemporium](https://youtu.be/05VABNfa1ds)
 
 
-
 ## Computer Vision C++ Guide
 
 * [OpenCV cpp course](https://www.computervision.zone/courses/opencv-cpp-course/)
@@ -112,6 +111,12 @@
 * [Tensorflow Applications of available models](https://www.tensorflow.org/api_docs/python/tf/keras/applications)
 * [Visualizing and Understanding Convolutional Networks - ZFNet](https://github.com/amir-saniyan/ZFNet)
 * [Receptive Fields - Intro to Neural Computation from perspective of cognitive science](https://youtu.be/fCqt07IXUPI)
+
+
+## Object detection
+
+* [Evolution of Object Detection Guide](https://drive.google.com/drive/folders/1nfbgbCdtMtik8SQchBM-J8AFsEFAfOQo)
+* [Evolution of Object Detection Guide Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
 
 
 ## RNN & Time-Series Reference
