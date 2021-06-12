@@ -111,6 +111,7 @@
 * [Keras Applictions of Available Models for Transfer Learning](https://keras.io/api/applications/)
 * [Tensorflow Applications of available models](https://www.tensorflow.org/api_docs/python/tf/keras/applications)
 * [Visualizing and Understanding Convolutional Networks - ZFNet](https://github.com/amir-saniyan/ZFNet)
+* [Receptive Fields - Intro to Neural Computation from perspective of cognitive science](https://youtu.be/fCqt07IXUPI)
 
 
 ## RNN & Time-Series Reference
