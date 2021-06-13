@@ -122,6 +122,9 @@
 * [Dilated Convolution](https://youtu.be/0Lg_V0Um-1Q)
 * [Transposed Convolution](https://youtu.be/96_oGE8WyPg)
 * [Upsampling and Transposed Convolution](https://youtu.be/QmCxqsbn5B0)
+* [Interpretable Convolutional Neural Network](https://towardsdatascience.com/interpretable-convolutional-neural-network-3f7ef6c9b7ae)
+* [Review: Tompson CVPR’15 — Spatial Dropout (Human Pose Estimation)](https://towardsdatascience.com/review-tompson-cvpr15-spatial-dropout-human-pose-estimation-c7d6a5cecd8c)
+
 
 
 ## Object detection
