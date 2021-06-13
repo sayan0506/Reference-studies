@@ -112,6 +112,17 @@
 * [Visualizing and Understanding Convolutional Networks - ZFNet](https://github.com/amir-saniyan/ZFNet)
 * [Receptive Fields - Intro to Neural Computation from perspective of cognitive science](https://youtu.be/fCqt07IXUPI)
 
+**CNN Intuitions refereneces**
+* [What do filters of Convolution Neural Network learn?](https://www.youtube.com/watch?v=eL80Im8Hq0k)
+* [Understanding the Role of Individual Units in a Deep Neural Network](https://arxiv.org/abs/2009.05041)
+* [Receptive fields and Effective receptive fields](https://youtu.be/rj9j_FTI25o)
+* [Receptive Field Intuition](https://youtu.be/70A3uYfM1qA)
+* [Depthwise Separable Convolution - A FASTER CONVOLUTION!](https://youtu.be/T7o3xvJLuHk)
+* [Introduction to Different types of Convolutions](https://youtu.be/1PzNDvDV6fE)
+* [Dilated Convolution](https://youtu.be/0Lg_V0Um-1Q)
+* [Transposed Convolution](https://youtu.be/96_oGE8WyPg)
+* [Upsampling and Transposed Convolution](https://youtu.be/QmCxqsbn5B0)
+
 
 ## Object detection
 
