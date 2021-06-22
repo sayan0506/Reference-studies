@@ -113,6 +113,7 @@
 * [Receptive Fields - Intro to Neural Computation from perspective of cognitive science](https://youtu.be/fCqt07IXUPI)
 * [Advanced Machine Learning Day 3: Neural Architecture Search](https://www.youtube.com/watch?v=wL-p5cjDG64)
 * [2016 DenseNet paper summary](https://www.youtube.com/watch?v=hSC_0S8Zf9s)
+* [2016 DenseNet paper summary](https://towardsdatascience.com/paper-review-densenet-densely-connected-convolutional-networks-acf9065dfefb)
 
 
 **CNN Intuitions refereneces**
