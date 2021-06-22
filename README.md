@@ -111,6 +111,8 @@
 * [Tensorflow Applications of available models](https://www.tensorflow.org/api_docs/python/tf/keras/applications)
 * [Visualizing and Understanding Convolutional Networks - ZFNet](https://github.com/amir-saniyan/ZFNet)
 * [Receptive Fields - Intro to Neural Computation from perspective of cognitive science](https://youtu.be/fCqt07IXUPI)
+* [Advanced Machine Learning Day 3: Neural Architecture Search](https://www.youtube.com/watch?v=wL-p5cjDG64)
+
 
 **CNN Intuitions refereneces**
 * [What do filters of Convolution Neural Network learn?](https://www.youtube.com/watch?v=eL80Im8Hq0k)
