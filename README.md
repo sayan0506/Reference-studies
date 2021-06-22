@@ -136,6 +136,7 @@
 
 * [Evolution of Object Detection Guide](https://drive.google.com/drive/folders/1nfbgbCdtMtik8SQchBM-J8AFsEFAfOQo)
 * [Evolution of Object Detection Guide Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
+* [Introduction to How Faster R-CNN, Fast R-CNN and R-CNN Works](https://www.youtube.com/watch?v=v5bFVbQvFRk&list=PLkRkKTC6HZMzp28TxR_fJYZ-K8Yu3EQw0)
 
 
 ## RNN & Time-Series Reference
