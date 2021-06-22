@@ -115,7 +115,6 @@
 * [2016 DenseNet paper summary](https://www.youtube.com/watch?v=hSC_0S8Zf9s)
 * [2016 DenseNet paper summary](https://towardsdatascience.com/paper-review-densenet-densely-connected-convolutional-networks-acf9065dfefb)
 * [ConvNets Scaled Efficiently Efficientnet](https://www.youtube.com/watch?v=fC39F8AqPo0)
-* [CS231n Winter 2016: Lecture 8: Localization and Detection](https://youtu.be/GxZrEKZfW2o)
 
 
 **CNN Intuitions refereneces**
@@ -138,6 +137,7 @@
 * [Evolution of Object Detection Guide](https://drive.google.com/drive/folders/1nfbgbCdtMtik8SQchBM-J8AFsEFAfOQo)
 * [Evolution of Object Detection Guide Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
 * [How Faster R-CNN, Fast R-CNN and R-CNN Works playlist](https://www.youtube.com/watch?v=v5bFVbQvFRk&list=PLkRkKTC6HZMzp28TxR_fJYZ-K8Yu3EQw0)
+* [CS231n Winter 2016: Lecture 8: Localization and Detection](https://youtu.be/GxZrEKZfW2o)
 
 
 ## RNN & Time-Series Reference
