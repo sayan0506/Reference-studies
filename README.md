@@ -112,6 +112,7 @@
 * [Visualizing and Understanding Convolutional Networks - ZFNet](https://github.com/amir-saniyan/ZFNet)
 * [Receptive Fields - Intro to Neural Computation from perspective of cognitive science](https://youtu.be/fCqt07IXUPI)
 * [Advanced Machine Learning Day 3: Neural Architecture Search](https://www.youtube.com/watch?v=wL-p5cjDG64)
+* [2016 DenseNet paper summary](https://www.youtube.com/watch?v=hSC_0S8Zf9s)
 
 
 **CNN Intuitions refereneces**
