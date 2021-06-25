@@ -215,3 +215,7 @@
 * [MASTER
 Artificial Intelligence](https://www.iubh-online.org/master-degree-programmes/artificial-intelligence/?clickref=1100ldAeTXW7&utm_source=private-network&utm_medium=koop&utm_campaign=partner1011l41608)
 * [Should You Take A Masters (MSc) In Machine Learning?](https://towardsdatascience.com/should-you-take-a-masters-msc-in-machine-learning-c01336120466)
+
+#### Company
+
+* [Archeron group AI, QC startup Bangalore](https://archerongroup.com/career/#)
