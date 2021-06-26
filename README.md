@@ -131,13 +131,14 @@
 * [Review: Tompson CVPR’15 — Spatial Dropout (Human Pose Estimation)](https://towardsdatascience.com/review-tompson-cvpr15-spatial-dropout-human-pose-estimation-c7d6a5cecd8c)
 
 
-
 ## Object detection
 
 * [Evolution of Object Detection Guide](https://drive.google.com/drive/folders/1nfbgbCdtMtik8SQchBM-J8AFsEFAfOQo)
 * [Evolution of Object Detection Guide Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
 * [How Faster R-CNN, Fast R-CNN and R-CNN Works playlist](https://www.youtube.com/watch?v=v5bFVbQvFRk&list=PLkRkKTC6HZMzp28TxR_fJYZ-K8Yu3EQw0)
 * [CS231n Winter 2016: Lecture 8: Localization and Detection](https://youtu.be/GxZrEKZfW2o)
+* [YOLOV4 advanced paper study](https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object)
+* [YOLOv4 explanation must watch, training strategies](https://www.youtube.com/watch?v=bDK9NRF20To)
 
 
 ## RNN & Time-Series Reference
