@@ -140,12 +140,11 @@
 
 * [Evolution of Object Detection Guide](https://drive.google.com/drive/folders/1nfbgbCdtMtik8SQchBM-J8AFsEFAfOQo)
 * [Evolution of Object Detection Guide Playlist](https://www.youtube.com/playlist?list=PL1GQaVhO4f_jLxOokW7CS5kY_J1t1T17S)
-* [How Faster R-CNN, Fast R-CNN and R-CNN Works playlist](https://www.youtube.com/watch?v=v5bFVbQvFRk&list=PLkRkKTC6HZMzp28TxR_fJYZ-K8Yu3EQw0)
 * [CS231n Winter 2016: Lecture 8: Localization and Detection](https://youtu.be/GxZrEKZfW2o)
 * [YOLOV4 advanced paper study](https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object)
 * [YOLOv4 explanation must watch, training strategies](https://www.youtube.com/watch?v=bDK9NRF20To)
 * [Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo)
-* [CV3DST - Two-stage object detectors](https://youtu.be/6I3m0SsLPo4)
+* [Pre deep learning object detector, object tracking, CV3DST - Two-stage object detectors(Region Families) best playlist on object detection, tracking, semantic segmentation](https://www.youtube.com/watch?v=2LaNh938Ia4&list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI&index=1)
 
 
 ## RNN & Time-Series Reference
