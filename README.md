@@ -50,6 +50,11 @@
 * [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf](https://github.com/sayan0506/Reference-studies/blob/main/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf)
 
 
+## Research paper study guides
+
+* [How to Read More Research Papers?](https://www.louisbouchard.ai/research-papers/)
+
+
 ## Deep Learning, Data Science & ML algorithms guide
 
 * [Random Forest](https://youtu.be/QHOazyP-YlM)
