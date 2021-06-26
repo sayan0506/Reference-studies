@@ -144,6 +144,7 @@
 * [CS231n Winter 2016: Lecture 8: Localization and Detection](https://youtu.be/GxZrEKZfW2o)
 * [YOLOV4 advanced paper study](https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object)
 * [YOLOv4 explanation must watch, training strategies](https://www.youtube.com/watch?v=bDK9NRF20To)
+* [Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo)
 
 
 ## RNN & Time-Series Reference
