@@ -75,6 +75,8 @@
 * [SVM followup of Codeemporium](https://youtu.be/05VABNfa1ds)
 * [Boosting - EXPLAINED!](https://youtu.be/MIPkK5ZAsms?t=892)
 * [Ensemble Learning | Ensemble Learning In Machine Learning | Machine Learning Tutorial | Simplilearn](https://www.youtube.com/watch?v=WtWxOhhZWX0)
+* [State-of-the-art Learning Rate Schedules](https://youtu.be/kbe_tNGoBHI)
+* [Competition Winning Learning Rates](https://www.youtube.com/watch?v=bR7z2MA0p-o)
 
 
 ## Computer Vision C++ Guide
