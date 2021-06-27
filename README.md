@@ -209,6 +209,11 @@
 * [Generation of music pieces using machine learning: long short-term memory neural networks approach](https://www.tandfonline.com/doi/full/10.1080/25765299.2019.1649972)
 
 
+## Tensorflow Certification
+
+* [Tensorflow Developer Certificate Exam concise guide](https://yashgyy.medium.com/tensorflow-developer-certificate-exam-9e8cefbac31)
+
+
 ## Advanced Research topics
 
 * [Recurrent Space-time Graph Neural Networks](https://arxiv.org/pdf/1904.05582.pdf)
