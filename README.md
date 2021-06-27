@@ -158,6 +158,15 @@
 * [Pre deep learning object detector, object tracking, CV3DST - Two-stage object detectors(Region Families) best playlist on object detection, tracking, semantic segmentation](https://www.youtube.com/watch?v=2LaNh938Ia4&list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI&index=1)
 
 
+## Model Compression
+
+* [ADD TO QUEUE
+TensorFlow model optimization: Quantization and pruning (TF World '19)](https://www.youtube.com/watch?v=3JWRVx1OKQQ)
+* [ADD TO QUEUE Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)](https://www.youtube.com/watch?v=4iq-d2AmfRU)
+* [Deep Dive on PyTorch Quantization - Chris Gottbrath](https://youtu.be/c3MT2qV5f9w)
+* [Pruning Deep Learning Models for Success in Production](https://www.youtube.com/watch?v=KRlOEGtb3gk)
+
+
 ## RNN & Time-Series Reference
 
 * [Time Series Anomaly Detection Algorithms](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
