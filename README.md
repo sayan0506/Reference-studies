@@ -165,6 +165,7 @@ TensorFlow model optimization: Quantization and pruning (TF World '19)](https://
 * [ADD TO QUEUE Inside TensorFlow: TF Model Optimization Toolkit (Quantization and Pruning)](https://www.youtube.com/watch?v=4iq-d2AmfRU)
 * [Deep Dive on PyTorch Quantization - Chris Gottbrath](https://youtu.be/c3MT2qV5f9w)
 * [Pruning Deep Learning Models for Success in Production](https://www.youtube.com/watch?v=KRlOEGtb3gk)
+* [Advanced Machine Learning with Neural Networks 2021 - Class 8 - Quantization and pruning](https://youtu.be/cKdnFpDY_6A)
 
 
 ## RNN & Time-Series Reference
