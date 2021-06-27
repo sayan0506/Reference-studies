@@ -73,6 +73,7 @@
 * [Best SVM Lectures](https://youtu.be/_PwhiWxHK8o)
 * [Insight of Kernelization](https://www.youtube.com/watch?v=wBVSbVktLIY)
 * [SVM followup of Codeemporium](https://youtu.be/05VABNfa1ds)
+* [Boosting - EXPLAINED!](https://youtu.be/MIPkK5ZAsms?t=892)
 
 
 ## Computer Vision C++ Guide
