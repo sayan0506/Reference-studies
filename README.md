@@ -88,6 +88,13 @@
 * [Deep Learning with C++ - Peter Goldsborough - Meeting C++ 2017 implement GAN](https://www.youtube.com/watch?v=8GoYXWOq55A&list=PLP6IJjRcf4jb24eH1GoGmlef1J83XZW-S&index=5)
 
 
+## Image denoising
+
+* [Deep Learning on Image Denoising: An Overview](https://arxiv.org/pdf/1912.13171.pdf)
+* [MIXTURE OF PRE-PROCESSING EXPERTS MODEL FOR NOISE ROBUST DEEP LEARNING ON RESOURCE CONSTRAINED PLATFORMS, for object detection in noisy images](https://arxiv.org/pdf/1904.12426.pdf)
+* [Noise in image processing](https://youtu.be/7KlvZGHocWo)
+
+
 ## CNN resources
 
 * [CNN Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/CNN_cheatsheet.pdf)
