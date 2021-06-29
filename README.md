@@ -157,6 +157,8 @@
 * [YOLOv4 series](https://www.youtube.com/playlist?list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN)
 * [Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo)
 * [Pre deep learning object detector, object tracking, CV3DST - Two-stage object detectors(Region Families) best playlist on object detection, tracking, semantic segmentation](https://www.youtube.com/watch?v=2LaNh938Ia4&list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI&index=1)
+* [Selective Search for Object Recognition](https://sahiltinky94.medium.com/selective-search-for-object-recognitions-eca15dc9c47c)
+* []()
 
 
 ## Model Compression
