@@ -77,6 +77,7 @@
 * [Ensemble Learning | Ensemble Learning In Machine Learning | Machine Learning Tutorial | Simplilearn](https://www.youtube.com/watch?v=WtWxOhhZWX0)
 * [State-of-the-art Learning Rate Schedules](https://youtu.be/kbe_tNGoBHI)
 * [Competition Winning Learning Rates](https://www.youtube.com/watch?v=bR7z2MA0p-o)
+* [cs7015 deep learning Best DL NPTEL COurse](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
 
 
 ## Computer Vision C++ Guide
