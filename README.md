@@ -100,6 +100,11 @@
 * [Noise in image processing](https://youtu.be/7KlvZGHocWo)
 
 
+## Job Links
+
+* [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+
+
 ## CNN resources
 
 * [CNN Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/CNN_cheatsheet.pdf)
