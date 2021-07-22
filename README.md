@@ -8,6 +8,12 @@
 * [Why and How to create requirements.txt](https://blog.usejournal.com/why-and-how-to-make-a-requirements-txt-f329c685181e)
 
 
+## Python Data Structure for ML
+
+* [Need of Data Structures and Algorithms for Deep Learning and Machine Learning](https://www.geeksforgeeks.org/need-of-data-structures-and-algorithms-for-deep-learning-and-machine-learning/)
+* [Python for Data Structures, Algorithms, and Interviews! Udemy Course](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/?ranMID=39197&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-0bqehgIAwySDSnUCl.tz3w&LSNPUBID=vedj0cWlu2Y&utm_source=aff-campaign&utm_medium=udemyads)
+* [Algorithms and Data Structures in Python (INTERVIEW Q&A)](https://www.udemy.com/course/algorithms-and-data-structures-in-python/?ranMID=39197&ranEAID=vedj0cWlu2Y&ranSiteID=vedj0cWlu2Y-9wXKRpOfDTMKQL2_fSFixA&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=vedj0cWlu2Y)
+
 ## Python material
 
 * [Python Hands on](https://github.com/sayan0506/Reference-studies/blob/main/Python%20Hands%20on.pdf)
