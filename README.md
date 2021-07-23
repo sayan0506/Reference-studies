@@ -49,6 +49,11 @@
 * [Data SCience all cheatsheets](https://drive.google.com/drive/u/0/mobile/folders/1m1FoUv66qlZgn2g76HHMzLq3QfydKC--)
 
 
+## Dataset Zoo
+
+[CVonline: Image Databases COmputer Vision Dataset](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
+
+
 ## Deep Learning Book and Playlist
 
 * [Deep Learning tools and Extensive Guide, Study](https://drive.google.com/drive/folders/1PyVSjpRYr_23t2_njJQxAGtaMf3MRCKJ?usp=sharing)
