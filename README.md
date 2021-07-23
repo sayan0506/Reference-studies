@@ -143,6 +143,7 @@
 * [2016 DenseNet paper summary](https://www.youtube.com/watch?v=hSC_0S8Zf9s)
 * [2016 DenseNet paper summary](https://towardsdatascience.com/paper-review-densenet-densely-connected-convolutional-networks-acf9065dfefb)
 * [ConvNets Scaled Efficiently Efficientnet](https://www.youtube.com/watch?v=fC39F8AqPo0)
+* [Attention and Transformers Detailed Blogs](https://theaisummer.com/vision-transformer/)
 
 
 **CNN Intuitions refereneces**
