@@ -52,6 +52,7 @@
 ## Dataset Zoo
 
 [CVonline: Image Databases COmputer Vision Dataset](https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm)
+[Fashion Image Object Detection Dataset and Project(due project)](https://drive.google.com/drive/folders/1twnt7dIEJ25MPoMla9j3k2ecOfhvcPe2?usp=sharing)
 
 
 ## Deep Learning, Computer Vision Book and Playlist
