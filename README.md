@@ -95,6 +95,8 @@
 * [State-of-the-art Learning Rate Schedules](https://youtu.be/kbe_tNGoBHI)
 * [Competition Winning Learning Rates](https://www.youtube.com/watch?v=bR7z2MA0p-o)
 * **[CS7015 DEEP LEARNING BEST DL FULL NPTEL COurse](https://www.youtube.com/playlist?list=PL3pGy4HtqwD2kwldm81pszxZDJANK3uGV)**
+* [How do GPUs speed up Neural Network training?](https://www.youtube.com/watch?v=EKD1kEMNeeU)
+* [Why use GPU with Neural Networks?](https://www.youtube.com/watch?v=GRRMi7UfZHg)
 
 
 ## Computer Vision C++ Guide
