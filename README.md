@@ -62,6 +62,9 @@
 * [Ian Goodfellow, Yoshua Bengio, Aaron Courville - Deep Learning (2017, MIT).pdf](https://github.com/sayan0506/Reference-studies/blob/main/Ian%20Goodfellow%2C%20Yoshua%20Bengio%2C%20Aaron%20Courville%20-%20Deep%20Learning%20(2017%2C%20MIT).pdf)
 * [Deep Learning Computer Vision IIT Madras NPTEL Playlist](https://youtube.com/playlist?list=PLyqSpQzTE6M_PI-rIz4O1jEgffhJU9GgG)
 * [Graph CNN Resources](https://theaisummer.com/graph-convolutional-networks/)
+* [Machine learning with Graphs Highly recommened for GNN/GCN](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
+* [Use GCN lectues of that DL series for implementation](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+* []()
 
 
 ## Research paper study guides
