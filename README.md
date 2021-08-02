@@ -159,6 +159,7 @@
 * [Attention and Transformers Detailed Blogs](https://theaisummer.com/vision-transformer/)
 * [DropBlock - A BETTER DROPOUT for Neural Networks](https://www.youtube.com/watch?v=GcvGxXePI2g&list=RDCMUC5_6ZD6s8klmMu9TXEB_1IA&start_radio=1&rv=GcvGxXePI2g&t=455)
 * [Neural Network Playground](https://playground.tensorflow.org/#activation=relu&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=7,3&seed=0.55312&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=true&xSquared=true&ySquared=true&cosX=false&sinX=true&cosY=false&sinY=true&collectStats=false&problem=classification&initZero=false&hideText=false)
+* [Spatial Dropout](https://arxiv.org/pdf/1411.4280.pdf)
 
 
 **CNN Intuitions refereneces**
