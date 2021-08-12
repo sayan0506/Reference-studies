@@ -183,11 +183,11 @@
 * [CS231n Winter 2016: Lecture 8: Localization and Detection](https://youtu.be/GxZrEKZfW2o)
 * [YOLOV4 advanced paper study](https://paperswithcode.com/paper/yolov4-optimal-speed-and-accuracy-of-object)
 * [YOLOv4 explanation must watch, training strategies](https://www.youtube.com/watch?v=bDK9NRF20To)
-* [YOLOv4 series](https://www.youtube.com/playlist?list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN)
+* [YOLOv4 series for implementation](https://www.youtube.com/playlist?list=PLKHYJbyeQ1a3tMm-Wm6YLRzfW1UmwdUIN)
 * [Mask Region based Convolution Neural Networks - EXPLAINED!](https://www.youtube.com/watch?v=4tkgOzQ9yyo)
 * [Pre deep learning object detector, object tracking, CV3DST - Two-stage object detectors(Region Families) best playlist on object detection, tracking, semantic segmentation](https://www.youtube.com/watch?v=2LaNh938Ia4&list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI&index=1)
 * [Selective Search for Object Recognition](https://sahiltinky94.medium.com/selective-search-for-object-recognitions-eca15dc9c47c)
-* []()
+* [YOLOv4 Best Blog post to explain YOLOv4](https://jonathan-hui.medium.com/yolov4-c9901eaa8e61)
 
 
 ## Model Compression
