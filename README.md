@@ -284,3 +284,7 @@ Artificial Intelligence](https://www.iubh-online.org/master-degree-programmes/ar
 #### Company
 
 * [Archeron group AI, QC startup Bangalore](https://archerongroup.com/career/#)
+
+## Daily Life
+
+* [10 strength exercises to improve your running](https://www.redbull.com/in-en/strength-training-for-runners-workout-guide)
