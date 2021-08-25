@@ -188,6 +188,7 @@
 * [Pre deep learning object detector, object tracking, CV3DST - Two-stage object detectors(Region Families) best playlist on object detection, tracking, semantic segmentation](https://www.youtube.com/watch?v=2LaNh938Ia4&list=PLog3nOPCjKBnpklR-RHZGWXbzjBkKI7cI&index=1)
 * [Selective Search for Object Recognition](https://sahiltinky94.medium.com/selective-search-for-object-recognitions-eca15dc9c47c)
 * [YOLOv4 Best Blog post to explain YOLOv4](https://jonathan-hui.medium.com/yolov4-c9901eaa8e61)
+* [MLT __init__ Session #4 – SSD: Single Shot MultiBox Detector](https://www.youtube.com/watch?v=F-irLP2k3Dk)
 
 
 ## Model Compression
