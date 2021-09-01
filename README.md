@@ -99,6 +99,8 @@
 * [Why use GPU with Neural Networks?](https://www.youtube.com/watch?v=GRRMi7UfZHg)
 * [A Short Introduction to Entropy, Cross-Entropy and KL-Divergence](https://youtu.be/ErfnhcEV1O8)
 * [Why do we need Cross Entropy Loss? (Visualized)](https://youtu.be/gIx974WtVb4)
+* [Loss Functions - EXPLAINED!](https://youtu.be/QBbC3Cjsnjg)
+* [Why do we need Cross Entropy Loss? (Visualized)](https://youtu.be/gIx974WtVb4)
 
 
 ## Computer Vision C++ Guide
