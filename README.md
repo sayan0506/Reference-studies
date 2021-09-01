@@ -101,6 +101,8 @@
 * [Why do we need Cross Entropy Loss? (Visualized)](https://youtu.be/gIx974WtVb4)
 * [Loss Functions - EXPLAINED!](https://youtu.be/QBbC3Cjsnjg)
 * [Why do we need Cross Entropy Loss? (Visualized)](https://youtu.be/gIx974WtVb4)
+* [Subgradient Descent](https://youtu.be/jYtCiV1aP44)
+* []()
 
 
 ## Computer Vision C++ Guide
