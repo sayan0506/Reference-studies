@@ -102,7 +102,9 @@
 * [Loss Functions - EXPLAINED!](https://youtu.be/QBbC3Cjsnjg)
 * [Why do we need Cross Entropy Loss? (Visualized)](https://youtu.be/gIx974WtVb4)
 * [Subgradient Descent](https://youtu.be/jYtCiV1aP44)
-* []()
+* [Maximum Likelihood Estimation-II, Square Error Loss Derivation](https://youtu.be/Ev0JsxpRBK0)
+* [Maximum-likelihood understanding](https://youtu.be/XepXtl9YKwc)
+* [Maximum Likelihood For the Normal Distribution, step-by-step!](https://youtu.be/Dn6b9fCIUpM)
 
 
 ## Computer Vision C++ Guide
