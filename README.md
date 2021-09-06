@@ -107,6 +107,11 @@
 * [Maximum Likelihood For the Normal Distribution, step-by-step!](https://youtu.be/Dn6b9fCIUpM)
 
 
+## Digital Image Proceessing
+
+* [Digital Image Definitions](https://nptel.ac.in/content/storage2/courses/117104069/chapter_1/1_1a.html)
+* [Fundamentals of Digital Image processing](https://www.coursera.org/learn/digital)
+
 ## Computer Vision C++ Guide
 
 * [OpenCV cpp course](https://www.computervision.zone/courses/opencv-cpp-course/)
