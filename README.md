@@ -205,6 +205,12 @@
 * [Selective Search for Object Recognition](https://sahiltinky94.medium.com/selective-search-for-object-recognitions-eca15dc9c47c)
 * [YOLOv4 Best Blog post to explain YOLOv4](https://jonathan-hui.medium.com/yolov4-c9901eaa8e61)
 * [YOLOV4 Reading Notes](https://github.com/sayan0506/Reference-studies/blob/main/YOLOv4%20-%20Reading%20notes.pdf)
+* [YOLOv5 New Version - Improvements And Evaluation](https://blog.roboflow.com/yolov5-improvements-and-evaluation/)
+* [EVOLUTION OF YOLO ALGORITHM AND YOLOV5: THE STATE-OF-THE-ART OBJECT DETECTION ALGORITHM](https://www.theseus.fi/bitstream/handle/10024/452552/Do_Thuan.pdf?sequence=2&isAllowed=y)
+* [Best blog on Region Proposals - What do we learn from region based object detectors (Faster R-CNN, R-FCN, FPN)?](https://jonathan-hui.medium.com/what-do-we-learn-from-region-based-object-detectors-faster-r-cnn-r-fcn-fpn-7e354377a7c9)
+* [Image segmentation with Mask R-CNN](https://jonathan-hui.medium.com/image-segmentation-with-mask-r-cnn-ebe6d793272)
+* [PANet: Path Aggregation Network In YOLOv4](https://medium.com/clique-org/panet-path-aggregation-network-in-yolov4-b1a6dd09d158)
+* [EfficientDet: Scalable and Efficient Object Detection](https://medium.com/@nainaakash012/efficientdet-scalable-and-efficient-object-detection-ea05ccd28427)
 * [MLT __init__ Session #4 – SSD: Single Shot MultiBox Detector](https://www.youtube.com/watch?v=F-irLP2k3Dk)
 
 
