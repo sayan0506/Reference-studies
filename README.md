@@ -233,6 +233,7 @@ TensorFlow model optimization: Quantization and pruning (TF World '19)](https://
 * [Time Series Anomaly Detection Algorithms](https://blog.statsbot.co/time-series-anomaly-detection-algorithms-1cef5519aef2)
 * [The Promise of Recurrent Neural Networks for Time Series Forecasting](https://machinelearningmastery.com/promise-recurrent-neural-networks-time-series-forecasting/)
 * [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series#Datasets)
+* [BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
 
 ## Generative Model Resources 
 
