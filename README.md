@@ -234,6 +234,9 @@ TensorFlow model optimization: Quantization and pruning (TF World '19)](https://
 * [The Promise of Recurrent Neural Networks for Time Series Forecasting](https://machinelearningmastery.com/promise-recurrent-neural-networks-time-series-forecasting/)
 * [Deep Learning Time Series Forecasting](https://github.com/Alro10/deep-learning-time-series#Datasets)
 * [BERT Research Series](https://www.youtube.com/playlist?list=PLam9sigHPGwOBuH4_4fr-XvDbe5uneaf6)
+* [Live Session- Encoder Decoder,Attention Models, Transformers, Bert Part 1](https://www.youtube.com/watch?v=bHfXYQgn0Cc)
+* [Live- Attention Models, Transformers In depth Intuition Deep Learning- Part 2](https://www.youtube.com/watch?v=ZU12u6-ewP0)
+* [Live -Transformers Indepth Architecture Understanding- Attention Is All You Need](https://www.youtube.com/watch?v=SMZQrJ_L1vo)
 
 ## Generative Model Resources 
 
