@@ -137,6 +137,11 @@
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 
 
+## Interview Preperations Guide
+
+* [Google Machine Learning Engineer Interview Prep](https://www.interviewkickstart.com/companies/google-machine-learning-engineer-interview-prep)
+
+
 ## CNN resources
 
 * [CNN Cheatsheet](https://github.com/sayan0506/Reference-studies/blob/main/CNN_cheatsheet.pdf)
