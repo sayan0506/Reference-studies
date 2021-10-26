@@ -110,8 +110,10 @@
 
 ## Metric Learning
 
-[AliGhodsi Lec 12, Metric Learning](https://youtu.be/GhsHPY3-1zY)
-[8.5 David Thompson (Part 5): Metric Learning](https://youtu.be/M0EjrFQH49o)
+* [AliGhodsi Lec 12, Metric Learning](https://youtu.be/GhsHPY3-1zY)
+* [8.5 David Thompson (Part 5): Metric Learning](https://youtu.be/M0EjrFQH49o)
+* [The Why and the How of Deep Metric Learning.](https://towardsdatascience.com/the-why-and-the-how-of-deep-metric-learning-e70e16e199c0)
+
 
 
 ## Digital Image Proceessing
