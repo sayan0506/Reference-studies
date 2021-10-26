@@ -105,8 +105,14 @@
 * [Maximum Likelihood Estimation-II, Square Error Loss Derivation](https://youtu.be/Ev0JsxpRBK0)
 * [Maximum-likelihood understanding](https://youtu.be/XepXtl9YKwc)
 * [Maximum Likelihood For the Normal Distribution, step-by-step!](https://youtu.be/Dn6b9fCIUpM)
-* [CS229: Machine Learning - The Summer Edition!
-](https://cs229.stanford.edu/syllabus-summer2019.html)
+* [CS229: Machine Learning - The Summer Edition!](https://cs229.stanford.edu/syllabus-summer2019.html)
+
+
+## Metric Learning
+
+[AliGhodsi Lec 12, Metric Learning](https://youtu.be/GhsHPY3-1zY)
+[8.5 David Thompson (Part 5): Metric Learning](https://youtu.be/M0EjrFQH49o)
+
 
 ## Digital Image Proceessing
 
