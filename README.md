@@ -190,6 +190,7 @@
 * [2-Dimensional Nyquist Sampling Theory](https://youtu.be/Vl_937LAm0g)
 * [[ICML19 Talk] Making Convolutional Networks Shift-Invariant Again (06/2019)](https://youtu.be/HjewNBZz00w)
 * [05 Imperial's Deep learning course: Equivariance and Invariance](https://www.youtube.com/watch?v=a4Quhf9NhMY)
+* [Semi-supervised Image Classification With Unlabeled Data](https://www.toptal.com/machine-learning/semi-supervised-image-classification)
 
 
 **CNN Intuitions refereneces**
