@@ -227,7 +227,6 @@
 * [PANet: Path Aggregation Network In YOLOv4](https://medium.com/clique-org/panet-path-aggregation-network-in-yolov4-b1a6dd09d158)
 * [EfficientDet: Scalable and Efficient Object Detection](https://medium.com/@nainaakash012/efficientdet-scalable-and-efficient-object-detection-ea05ccd28427)
 * [MLT __init__ Session #4 – SSD: Single Shot MultiBox Detector](https://www.youtube.com/watch?v=F-irLP2k3Dk)
-
 * [Neural Networks Intuitions: 8. Translation Invariance in Object Detectors](https://towardsdatascience.com/neural-networks-intuitions-8-translation-invariance-in-object-detectors-21db6e27879c)
 
 
