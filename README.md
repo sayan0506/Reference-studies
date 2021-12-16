@@ -305,6 +305,7 @@ TensorFlow model optimization: Quantization and pruning (TF World '19)](https://
 
 ## Advanced Research topics
 
+* [Vision in Art and Neuroscience Fall 2021 ](https://vision.mit.edu/)
 * [Simple, Powerful, and Fast— RegNet Architecture from Facebook AI](https://medium.com/visionwizard/simple-powerful-and-fast-regnet-architecture-from-facebook-ai-research-6bbc8818fb44)
 * [Recurrent Space-time Graph Neural Networks](https://arxiv.org/pdf/1904.05582.pdf)
 * [Factorization Machines for Item Recommendation with Implicit Feedback Data](https://towardsdatascience.com/factorization-machines-for-item-recommendation-with-implicit-feedback-data-5655a7c749db)
