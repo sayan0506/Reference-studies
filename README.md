@@ -107,6 +107,7 @@
 * [Maximum Likelihood For the Normal Distribution, step-by-step!](https://youtu.be/Dn6b9fCIUpM)
 * [CS229: Machine Learning - The Summer Edition!](https://cs229.stanford.edu/syllabus-summer2019.html)
 * [Find and Remove duplicates using 51](https://towardsdatascience.com/find-and-remove-duplicate-images-in-your-dataset-3e3ec818b978)
+* [Data-Driven Control with Machine Learning](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
 
 
 ## Metric Learning
