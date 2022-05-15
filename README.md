@@ -64,7 +64,7 @@
 * [Graph CNN Resources](https://theaisummer.com/graph-convolutional-networks/)
 * [Machine learning with Graphs Highly recommened for GNN/GCN](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
 * [Use GCN lectues of that DL series for implementation](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
-* []()
+* [What's the hardware spec for Google Colaboratory?](https://colab.research.google.com/drive/1_x67fw9y5aBW72a8aGePFLlkPvKLpnBl#scrollTo=QlvkREnwN-RA)
 
 
 ## Research paper study guides
