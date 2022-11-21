@@ -333,6 +333,12 @@ Artificial Intelligence](https://www.iubh-online.org/master-degree-programmes/ar
 
 * [Archeron group AI, QC startup Bangalore](https://archerongroup.com/career/#)
 
+#### ART Science 
+
+* [Master Color & Editing
+Want to know how to recreate ANY STYLE you want?](https://www.maartenschrader.com/training/)
+* [Lightroom 245 lectures by Marteen](https://www.youtube.com/playlist?list=PL2v3UTilm5vBPf8Lu_1sMSjHXE_y4jizg)
+
 ## Daily Life
 
 * [10 strength exercises to improve your running](https://www.redbull.com/in-en/strength-training-for-runners-workout-guide)
