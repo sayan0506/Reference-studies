@@ -332,6 +332,7 @@ Artificial Intelligence](https://www.iubh-online.org/master-degree-programmes/ar
 ## **AI Competitions**
 
 * [AI-Crowd Crowdsourcing AI to Solve Real-World Problems](https://www.aicrowd.com/challenges)
+* [12 Data Science & AI Competitions to Advance Your Skills in 2021](https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c)
 
 #### Company
 
